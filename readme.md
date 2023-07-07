@@ -16,6 +16,10 @@
 
 
 
+
+
+# NOTAS
+
 ## Rest: Representational State Transfer
 
 Es una convección que se refiere a servicios web por protocolo HTTP
